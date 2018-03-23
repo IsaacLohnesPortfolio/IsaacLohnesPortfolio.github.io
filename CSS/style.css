@@ -161,7 +161,7 @@ div#paragraphs{
 	margin-left:3%;
 }	
 
-
+/*mobile styles */
 
 @media screen and (max-width: 900px) {	
 div#nav > ul > li#split{
@@ -190,4 +190,4 @@ div#nav > ul > li#split{
 	
 }	
 
-
+/*iframe*/
