@@ -37,6 +37,9 @@ a,li {
 	
 }
 
+a {
+	transition: color 0.5s ease;
+}
 a:hover {
 		
 		color:rgb(219, 182, 173);

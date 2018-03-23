@@ -111,13 +111,15 @@ p{
 /* nav styles */
 
 div#nav >ul > li > a{
-	color:rgb(230,167,144);
+	color:rgb(210,147,124);
+	
 	text-decoration: none;
+	transition: color 0.5s ease;
 }
 
 div#nav >ul > li > a:hover{
 
-	text-decoration: underline;
+	color:rgb(255,192,169);
 	
 }
 
